@@ -8,42 +8,17 @@ namespace GameKeeper
 {
     public class Player
     {
-        string _firstN;
-        string _lastN;
+        private int id          { get; }
+        public string name    { get; }
 
-        protected string NameF  
+        public Player()     
         {
-            get
-            {
-                string first = _firstN.Substring(0, 1).ToUpper() + _firstN.Substring(1).ToLower();
-                return first;
-            }
-        }
-        protected string NameL  
-        {
-            get
-            {
-                string last = _lastN.Substring(0, 1).ToUpper() + _lastN.Substring(1).ToLower();
-                return last;
-            }
-        }
-        public string Name      
-        {
-            get
-            {
-                return $"{NameF} {NameL}";
-            }
-        }
-        public string Handle    
-        {
-            get;
-            private set;
+
         }
 
-        public Player()
+        public Player(string name)  
         {
-            Console.Write(@"Input player username:\t");
-            Handle = Console.ReadLine();
+            this.name = name;
         }
 
     }

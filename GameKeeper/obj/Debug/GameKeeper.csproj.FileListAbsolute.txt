@@ -1,1 +1,8 @@
 C:\Users\Gregory Austrow\source\repos\Sandbox\GameKeeper\obj\Debug\GameKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\obj\Debug\GameKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\obj\Debug\GameKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\bin\Debug\GameKeeper.exe.config
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\bin\Debug\GameKeeper.exe
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\bin\Debug\GameKeeper.pdb
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\obj\Debug\GameKeeper.exe
+C:\Users\Gregory Austrow\workspace\GameKeeper\GameKeeper\obj\Debug\GameKeeper.pdb

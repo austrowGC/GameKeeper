@@ -40,7 +40,7 @@ namespace GameKeeper.Library
 
         public override void Setup()
         {
-            CheckPlayers();
+            //CheckPlayers();
         }
 
         public override void StopGame()

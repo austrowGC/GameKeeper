@@ -11,7 +11,9 @@ namespace GameKeeper
     {
         static void Main(string[] args)
         {
-            Atrium.AddPlayer();
+            Atrium lobby = new Atrium();
+            lobby.Start();
+            
         }
     }
 }
